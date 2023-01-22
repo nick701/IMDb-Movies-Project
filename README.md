@@ -13,5 +13,5 @@ Libraries & technology used:
   - Linear Regression
   - Scipy
   
-The data set's source can be found here:
-https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis 
+The data set can be found on Kaggle at the link below:
+https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis
